@@ -8,12 +8,12 @@ Increatse the ability to modify and manage rooms, amenities, and new hotel locat
 
 ### Entities
 
-![image](./images/ERD-Entities.png)
+![image](./Lab11-Async-Inn/images/ERD-Entities.png)
 
 
 ### Tables
 
-![image](./images/ERD-Models.png)
+![image](./Lab11-Async-Inn/images/ERD-Models.png)
 
 ## Explanation
 
